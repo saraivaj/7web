@@ -53,7 +53,7 @@ Alterações a esta Política de Privacidade
 
 Nós podemos atualizar nossa Política de Privacidade periodicamente. Portanto, é recomendável revisar esta página periodicamente para verificar se há alterações. Nós iremos notificá-lo de quaisquer alterações, publicando a nova Política de Privacidade nesta página.
 
-Esta política é eficaz a partir de 17/04 2020
+Esta política é eficaz a partir de  27/09/2020
 
 Contate-Nos
 
