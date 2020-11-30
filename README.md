@@ -1,12 +1,12 @@
-#  DROID7 CDN
+# DR7 2.0
 Política de Privacidade
-CrackCloud criou o aplicativo DROID7 CDN como aplicativo gratuito sem anúncio. Este SERVIÇO é fornecido por CrackCloud sem nenhum custo e deve ser usado como está.
+CrackCloud criou o aplicativo DR7 2.0 como aplicativo gratuito sem anúncio. Este SERVIÇO é fornecido por CrackCloud sem nenhum custo e deve ser usado como está.
 
 Esta página é usada para informar os visitantes sobre as políticas com a coleta, o uso e a divulgação de informações pessoais, se alguém decidir usar o Serviço.
 
 Se você optar por usar o Serviço, concorda em coletar e usar informações em relação a esta política. As informações pessoais que coletam são usadas para fornecer e melhorar o serviço. não usará nem compartilhará suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 
-Os termos usados ​​nesta Política de Privacidade têm o mesmo significado que em nossos Termos e Condições, que podem ser acessados ​​em DROID7 CDN, a menos que definido de outra forma nesta Política de Privacidade.
+Os termos usados ​​nesta Política de Privacidade têm o mesmo significado que em nossos Termos e Condições, que podem ser acessados ​​em DR7 2.0, a menos que definido de outra forma nesta Política de Privacidade.
 
 Coleta e uso de informações
 
@@ -53,10 +53,10 @@ Alterações a esta Política de Privacidade
 
 Nós podemos atualizar nossa Política de Privacidade periodicamente. Portanto, é recomendável revisar esta página periodicamente para verificar se há alterações. Nós iremos notificá-lo de quaisquer alterações, publicando a nova Política de Privacidade nesta página.
 
-Esta política é eficaz a partir de  27/09/2020
+Esta política é eficaz a partir de 30/11/2020
 
 Contate-Nos
 
 Se você tiver alguma dúvida ou sugestão sobre a nossa Política de Privacidade, não hesite em contatar-nos.
 
-Esta página de política de privacidade foi criada pela empresa crackcloud.
+Esta página de política de privacidade foi criada pela empresa CrackCloud
